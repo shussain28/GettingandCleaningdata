@@ -3,6 +3,8 @@
 
 =========================================================
 t=time domain variables    f= frequency domain variables
+
+
 COLUMN                                                              DESCRIPTION
 
 "Activity"                                                           Activity(Wakting etc)  
