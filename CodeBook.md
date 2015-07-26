@@ -1,17 +1,18 @@
 # Column Definitions
 
-t=time domain variables    f= frequency domain variables
+
 =========================================================
+t=time domain variables    f= frequency domain variables
 COLUMN                                                              DESCRIPTION
 
 "Activity"                                                           Activity(Walting etc)                     
-"Subject_Id"                                                        Subject Id's on whom the tests were performed
-"tBodyAcc.mean...X"                                                 time Domain Body Accelration X signal mean
-"tBodyAcc.mean...Y"                                                 time Domain Body Accelration Y signal mean
-"tBodyAcc.mean...Z"                                                 time Domain Body Accelration Y signal mean
-"tBodyAcc.std...X"                                                  time Domain Body Accelration Y signal standard deviation
-"tBodyAcc.std...Y"                                                  time Domain Body Accelration Y signal stndard deviation
-"tBodyAcc.std...Z"                                                  time Domain Body Accelration Y signal stndard deviation
+"Subject_Id"                                         Subject Id's on whom the tests were performed
+"tBodyAcc.mean...X"                                  time Domain Body Accelration X signal mean
+"tBodyAcc.mean...Y"                                  time Domain Body Accelration Y signal mean
+"tBodyAcc.mean...Z"                                   time Domain Body Accelration Y signal mean
+"tBodyAcc.std...X"                                    time Domain Body Accelration Y signal standard deviation
+"tBodyAcc.std...Y"                                    time Domain Body Accelration Y signal stndard deviation
+"tBodyAcc.std...Z"                                    time Domain Body Accelration Y signal stndard deviation
 "tGravityAcc.mean...X"           
 "tGravityAcc.mean...Y"           
 "tGravityAcc.mean...Z"            
