@@ -33,4 +33,4 @@ The following files are available for the train and test data. Their description
 The code file
 =========================================
 - 'run_analysis.R': Code file that needs to be run in R environment and the  same directory where the data files are residing
--                   In this code file you probably have to change the filepats. Once the code file is Run, it will produce an                     output file called tidy.txt with the desired output.
+-                   In this code file you probably have to change the filepaths. Once the code file is Run, it will produce an                     output file called tidy.txt with the desired output.
