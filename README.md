@@ -40,6 +40,7 @@ The code file
 The code book
 =========================================
 COLUMN                        DESCRIPTION
+
 "Activity"                       
 "Subject_Id"                      
 "tBodyAcc.mean...X"              
