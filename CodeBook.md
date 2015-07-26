@@ -1,15 +1,17 @@
 # Column Definitions
-=========================================================
-COLUMN                        DESCRIPTION
 
-"Activity"                       
-"Subject_Id"                      
-"tBodyAcc.mean...X"              
-"tBodyAcc.mean...Y"              
-"tBodyAcc.mean...Z"              
-"tBodyAcc.std...X"               
-"tBodyAcc.std...Y"                
-"tBodyAcc.std...Z"                
+t=time domain variables    f= frequency domain variables
+=========================================================
+COLUMN                                                              DESCRIPTION
+
+"Activity"                                                           Activity(Walting etc)                     
+"Subject_Id"                                                        Subject Id's on whom the tests were performed
+"tBodyAcc.mean...X"                                                 time Domain Body Accelration X signal mean
+"tBodyAcc.mean...Y"                                                 time Domain Body Accelration Y signal mean
+"tBodyAcc.mean...Z"                                                 time Domain Body Accelration Y signal mean
+"tBodyAcc.std...X"                                                  time Domain Body Accelration Y signal standard deviation
+"tBodyAcc.std...Y"                                                  time Domain Body Accelration Y signal stndard deviation
+"tBodyAcc.std...Z"                                                  time Domain Body Accelration Y signal stndard deviation
 "tGravityAcc.mean...X"           
 "tGravityAcc.mean...Y"           
 "tGravityAcc.mean...Z"            
@@ -44,9 +46,9 @@ COLUMN                        DESCRIPTION
 "tBodyGyroMag.std.."              
 "tBodyGyroJerkMag.mean.."         
 "tBodyGyroJerkMag.std.."         
-"fBodyAcc.mean...X"               
-"fBodyAcc.mean...Y"              
-"fBodyAcc.mean...Z"              
+"fBodyAcc.mean...X"                                                 frequency Domain Body Accelration X signal mean
+"fBodyAcc.mean...Y"                                                 frequency Domain Body Accelration Y signal mean
+"fBodyAcc.mean...Z"                                                 frequency Domain Body Accelration Z signal mean
 "fBodyAcc.std...X"                
 "fBodyAcc.std...Y"                
 "fBodyAcc.std...Z"               
